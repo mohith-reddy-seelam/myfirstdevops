@@ -6,7 +6,7 @@ public class even {
 		int n=6;
 		if(n%2==0)
 		{
-			System.out.println("I am even");
+			System.out.println("I am even number");
 		}
 	}
 
